@@ -1,0 +1,4 @@
+1. Using heading tags.
+2. Using body tags.
+3. Using links (absolute and relative URLS)
+4. 
